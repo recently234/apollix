@@ -398,7 +398,7 @@ ScripthubTab:AddButton({
 ScripthubTab:AddButton({
 	Name = "Yon Hub[Free vers, FF2]",
 	Callback = function()
-        loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/bb2ce6c8f95b42ecec9c45399081758b.lua"))()
+        loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/41968796deca8f470577e2b7e7c62489.lua"))()
   	end    
 })
 ScripthubTab:AddButton({
